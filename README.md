@@ -146,7 +146,7 @@ in our repository by making _commits_.
 ## Create a Commit and Apply a Commit Message with `git commit`
 
 Remember: `git add` got our changes to the repository ready in the previous step. Those
-changes are the ones that will be "captured" with out commit.
+changes are the ones that will be "captured" with our commit.
 
 To make our first commit, type: `git commit -m "Initial commit"`.
 
